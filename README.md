@@ -1,2 +1,2 @@
 # KNN
-implementation of knn algorithm of dataset which having 400 column 
+implementation of knn algorithm on Social_Network_Ads.csv dataset.
